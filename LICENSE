@@ -1,0 +1,99 @@
+H2 invent – Fair Use Source License Agreement
+
+1.	Copyright
+© 2026 H2 invent GmbH
+
+2.	Definitions
+a)	“Software,” “Program,” or “Licensed Work” refers to the program published under this license, including source code,
+    documentation, and associated files.
+b)	“Licensor” means the natural or legal person granting this license.
+c)	“Commercial use“ means any use, in whole or in part, of the software for the direct or indirect purpose of deriving
+    economic benefits, including, but not limited to:
+         •	the sale of products or services,
+         •	hosting or SaaS offerings,
+         •	consulting and outsourcing services.
+d)	“Network use” refers to the provision of the software’s functions to third parties or the user’s affiliated companies
+    via a local, open, closed, or wireless network, in particular the networking of multiple independent computers via
+    the Internet, VPN, intranet, or comparable technologies.
+
+3.	Grant of License
+Subject to the terms of this license, the Licensor grants each user a non-exclusive, worldwide, perpetual, non-
+transferable royalty-free right to
+     •	to download the software,
+     •	view the source code,
+     •	to test, modify and further develop the software and/or source code,
+     •	to distribute unmodified or modified versions of the software and/or the source code in accordance with Section
+        4, provided that such use is not covered by Section 8 or 9.
+The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-commercial
+use of the Software. The Licensor may grant an Additional Use Grant, as described above, permitting commercial use.
+
+4.	Distribution
+With regard to the distribution of unmodified or modified source code, subject to Sections 5 and 6: Whenever the
+Software or derivative works are distributed,
+     •	a copy of this license must be included,
+     •	a notice of any changes made must be included,
+     •	the Licensor’s copyright notice must be retained.
+All copies of the original and modified Licensed Work, and derivative works of the Licensed Work, are subject to this
+License. This License applies separately to each version of the Licensed Work, and the Change Date may vary for each
+version of the Software released by the Licensor.
+You must conspicuously display this License on each original or modified copy of the Licensed Work. If you receive the
+Software in its original or modified form from a third party, the terms and conditions set forth in this License apply
+to your use of that work.
+
+5.	Distributing Verbatim Copies
+You may distribute verbatim copies of the Program’s source code as you receive it, in any medium, provided that you
+conspicuously and appropriately publish an appropriate copyright notice on each copy; keep intact all notices stating
+that this License applies; keep intact all notices of the absence of any warranty; and provide all recipients with a
+copy of this License along with the Program.
+
+6.	Distributing Modified Source Versions
+You may distribute a work based on the Program, or the modifications made to produce it from the Program, in source
+form, provided that you also meet all of the following conditions:
+a)	The work must include prominent notices stating that you modified it and providing a relevant date.
+b)	The work must include prominent notices stating that it is released under this License
+c)	You must license the entire work, as a whole, under this License to anyone who comes into possession of a copy.
+
+7.	Supplementary License Terms
+Notwithstanding any other provision of this License, for material you add to a covered work, you may (if authorized by
+the holders of that material) supplement the terms of this License with terms:
+a)	That disclaim warranty or limit liability differently from the terms of Sections 11 and 12 of this License; or
+b)	Requiring the preservation of specified reasonable legal notices or author attributions in that material or in the
+    Appropriate Legal Notices displayed by works containing it; or
+c)	Prohibiting misrepresentation of the origin of that material, or requiring that modified versions of such material
+    be marked in reasonable ways as different from the original version; or
+d)	Limiting the use of the names of licensors or authors of the material for publicity purposes; or
+
+8.	Commercial Use
+Commercial use of the software is permitted only if
+a)	the user has previously purchased a commercial license from the primary licensor, H2 invent GmbH, and
+b)	the license fee specified for this purpose has been paid to H2 invent GmbH.
+Any commercial use is prohibited without an express commercial license.
+
+9.	Network Use
+Use of the software to provide services over a network requires the prior written consent of the licensor.
+This applies regardless of
+     •	whether the use is commercial or non-commercial,
+     •	whether third parties or affiliated companies access the software,
+     •	whether the software is operated as a SaaS, PaaS, hosting, or cloud service.
+The original licensor, H2invent GmbH, may grant, deny, or impose additional conditions on such authorization at
+its sole discretion.
+
+10.	Ownership of Intellectual Property Rights
+All copyrights, trademark rights, and other rights in the software remain with the licensor or its rights holders.
+This license does not transfer any ownership rights.
+
+11.	Disclaimer of Warranty
+The Licensor makes no express or implied warranties of fitness for a particular purpose.
+
+12.	Limitation of Liability
+To the extent permitted by law, the Licensor shall not be liable for any direct, indirect, incidental, or consequential
+damages arising from the use of the software.
+
+13.	Termination
+In the event of a breach of this license, all rights granted hereunder shall automatically terminate.
+In such a case, use of the software must be discontinued immediately.
+
+14.	Governing Law
+a)	This license agreement is governed by German substantive law, excluding conflict-of-laws provisions.
+b)	The exclusive venue for all disputes arising out of or in connection with this license, regardless of the legal
+    basis, is the registered office of H2 invent GmbH, Gewerbestr. 9, 79539 Lörrach, Germany.
