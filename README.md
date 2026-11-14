@@ -81,10 +81,3 @@ Fehler sind mit `errors.Is` prüfbar: `ErrMissing`, `ErrMalformed`, `ErrSignatur
 ### Schlüsselrotation
 
 `NewVerifier` nimmt mehrere öffentliche Schlüssel; eine Version mit altem und neuem Schlüssel ausliefern, neue Lizenzen mit dem neuen Schlüssel signieren.
-
-## Schutzwirkung und Grenzen
-
-- Ohne den privaten Schlüssel lässt sich keine gültige Lizenz erzeugen oder eine bestehende verändern (Laufzeit, Produkt, Features).
-- Der öffentliche Schlüssel liegt nur maskiert (zwei XOR-Hälften) im Binary, nicht als Datei und nicht als String; `-ldflags -X` kann ihn nicht ersetzen.
-- Eine rein clientseitige Prüfung lässt sich durch Patchen des Binarys grundsätzlich umgehen. Die Maßnahmen erhöhen den Aufwand, verhindern es aber nicht. Wirksame Ergänzungen sind rechtliche Mittel (Lizenzvertrag) und signierte Images.
-- Die Zustandsdatei lässt sich löschen; sie fängt nur das einfache Zurückstellen der Uhr ab.
